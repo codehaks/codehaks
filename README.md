@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a seasoned .NET developer with a passion for crafting robust architectures, building seamless APIs, and driving collaboration in dynamic teams. Continuously
-
+I'm a seasoned .NET developer with a passion for crafting robust architectures, building seamless APIs, and driving collaboration in dynamic teams. Continuously seeking opportunities to expand my skills, I thrive in tackling new challenges and delivering innovative solutions.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codehaks) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codehaks) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dotnetexplained) 
 
