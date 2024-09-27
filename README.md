@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Back-end web developer focused on Microsoft technologies. I've been a .NET developer for more than 15 years, working in the broad area of problems and business requirements, I have extended knowledge and expertise in ASP.NET Core and C# Programming language. 
-
+I'm a seasoned .NET developer with a passion for crafting robust architectures, building seamless APIs, and driving collaboration in dynamic teams. Continuously
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codehaks) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codehaks) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dotnetexplained) 
