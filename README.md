@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer with a mechanical engineering background, specializing in creating custom solutions for engineering tools and simulations. Experienced in web development, DevOps, and applying advanced programming techniques for design and AI automation. Passionate about computer graphics and 3D modeling.
+I'm a Software developer with a mechanical engineering background, specializing in engineering tool customization, simulations, and CAD systems. Experienced in web development, DevOps, and graphics programming.
 
 
 # 💻 Tech Stack:
