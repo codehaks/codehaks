@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Hakim 👋</h1>
-<h3 align="center">Senior CAD / BIM Plugin Developer · AutoCAD · SolidWorks · Revit · APS / ACC</h3>
+<h3 align="center">Engineering-first software developer  
+CAD/BIM plugins • .NET & C++ • Autodesk ecosystem
+</h3>
 
 <p align="center">
   <em>Mechanical Engineer turned Software Developer — I build plugins and automation that give engineering teams their hours back.</em>
@@ -17,7 +19,7 @@
 
 ### 💫 About Me
 
-I sit in the rare overlap between three worlds — **mechanical engineering**, **CAD/BIM plugin development**, and **software engineering**. I'm a mechanical engineer who became one, so I read the engineering problem first and design the right tool for it.
+I work at the intersection of mechanical engineering, CAD/BIM development, and software engineering. With a background in mechanical engineering, I approach software by first understanding the engineering problem, then designing the right tool to solve it.
 
 - 🏗️ Building custom **AutoCAD**, **SolidWorks**, and **Revit** plugins
 - ☁️ Integrating CAD desktops with **Autodesk Platform Services (APS / Forge)** and **ACC**
