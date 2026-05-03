@@ -149,11 +149,6 @@ I'm open to:
 📩 **ghods.hakim@hotmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/codehaks)
 
 ---
-
-<p align="center">
-  <em>Iran Standard Time (UTC+3:30) — comfortable overlap with EU working hours, partial with US East Coast mornings, async-first for US West Coast.</em>
-</p>
-
 <p align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=codehaks&icon=0&color=0" /></a>
 </p>
