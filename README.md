@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <em><em>Mechanical engineer building software for CAD and engineering automation.</em>
+  <em>Mechanical engineer building software for CAD and engineering automation.</em>
 </p>
 
 <p align="center">
