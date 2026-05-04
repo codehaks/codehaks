@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Hakim 👋</h1>
-<h3 align="center">Engineering-first software developer  
-CAD/BIM plugins • .NET & C++ • Autodesk ecosystem
+<h3 align="center">Engineering-first software developer | CAD/BIM Tools • .NET • Autodesk 
 </h3>
 
 <p align="center">
-  <em>Mechanical Engineer turned Software Developer — I build plugins and automation that give engineering teams their hours back.</em>
+  <em><em>Mechanical engineer building software for CAD and engineering automation.</em>
 </p>
 
 <p align="center">
