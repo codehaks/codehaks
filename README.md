@@ -1,6 +1,6 @@
 ## Hakim Ghods
 
-Senior software developer with 20+ years of experience. Mechanical engineer (B.Sc. 2008) focused on CAD/BIM plugin development.
+Senior software developer with 20+ years of experience. Mechanical engineer (B.Sc. 2008) focused on CAD/BIM Tools development.
 
 **Currently:** Revit Add-on Developer @auxalia-GmbH — Revit plugin platform, licensing, APS Design Automation, ACC integrations.
 
