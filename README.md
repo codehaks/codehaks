@@ -2,7 +2,7 @@
 
 Senior software developer with 20+ years of experience. Mechanical engineer (B.Sc. 2008) focused on CAD/BIM Tools development.
 
-**Currently:** Revit Add-on Developer @auxalia-GmbH — Revit plugin platform, licensing, APS Design Automation, ACC integrations.
+**Currently:** Revit Tools Developer @auxalia-GmbH — Revit Tools, APS Design Automation, ACC integrations.
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
