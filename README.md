@@ -21,7 +21,7 @@ Senior software developer with 20+ years of experience. Mechanical engineer (B.S
 
 - **Languages:** C# · VB.NET · TypeScript · SQL · Python · AutoLISP
 - **CAD/BIM:** AutoCAD .NET API · SolidWorks API · Revit API · APS (Forge) · ACC
-- **.NET:** .NET 8 · ASP.NET Core · Blazor · WPF · WinForms · EF Core · Dapper
+- **.NET:** .NET · ASP.NET Core · Blazor · WPF · WinForms · EF Core · Dapper
 - **Infra:** Docker · GitHub Actions · Azure · SQL Server · PostgreSQL · Redis · MinIO · SignalR · RabbitMQ
 - **Testing:** xUnit · NUnit
 - **Tooling:** Visual Studio · Rider · VS Code
